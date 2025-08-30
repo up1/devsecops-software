@@ -1,5 +1,6 @@
 # Install [Harbor](https://goharbor.io/)
 * Container Registry
+* Required docker and docker compose
 
 
 ```
